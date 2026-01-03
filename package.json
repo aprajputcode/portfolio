@@ -1,5 +1,5 @@
 {
-  "name": "John_Doe",
+  "name": "Aksahy Pardeshi Portfolio",
   "version": "1.5.0",
   "description": "An elegant responsive bootstrap 4.x theme.",
   "main": "gulpfile.js",
@@ -9,7 +9,8 @@
   },
   "devDependencies": {
     "browser-sync": "^2.26.3",
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
+    "sass": "^1.69.0",
     "gulp-clean-css": "^4.0.0",
     "gulp-sass": "^4.0.2",
     "gulp-autoprefixer": "^6.1.0",
